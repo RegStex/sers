@@ -8,6 +8,14 @@
 
 > Website of Selenium: https://www.selenium.dev/
 > 
-> Version of Selenium: _*will be updated*_
+> Selenium Dependency: 
+> ```
+> <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+> <dependency>
+>   <groupId>org.seleniumhq.selenium</groupId>
+>   <artifactId>selenium-java</artifactId>
+>   <version>4.5.3</version>
+> </dependency>
+> ```
  
 > **_NOTE:_** The information is for the current version of SeRS
