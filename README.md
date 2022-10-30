@@ -17,5 +17,7 @@
 >   <version>4.5.3</version>
 > </dependency>
 > ```
- 
+
+> Support: https://discord.gg/HNhPht8BNc - #sers-support 
+
 > **_NOTE:_** The information is for the current version of SeRS
