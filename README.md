@@ -1,5 +1,3 @@
-# sers
-
 <img src="src/main/resources/sers.png" alt="SeRS">
 
 > Dedicated library for Selenium Java.
