@@ -9,3 +9,7 @@
 > - If you are making money using/selling the library, ***Be Cool*** and support us.
 > 
 > **_NOTE:_** You are not obligated to be cool, is your choice.
+
+> By using the library, you are obligated to respect all terms of all dependencies used in this library.
+> 
+> - Selenium (Apache License 2.0): https://www.selenium.dev/documentation/about/copyright/#license
