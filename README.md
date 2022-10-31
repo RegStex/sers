@@ -1,5 +1,4 @@
 <img src="src/main/resources/sers.png" alt="SeRS">
-<br>
 <img src="src/main/resources/javaversion.png" alt="Java - 17.0.4.1">
 
 Dedicated library for Selenium Java.
